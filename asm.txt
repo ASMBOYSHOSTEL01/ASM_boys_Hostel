@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A. S. M Boy's Hostel</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #4CAF50; color: white; text-align: center; padding: 20px; }
+        nav { padding: 10px; text-align: center; background: #ddd; }
+        nav a { margin: 0 15px; text-decoration: none; color: black; font-weight: bold; }
+        nav a:hover { color: #4CAF50; }
+        footer { text-align: center; padding: 10px; background: #4CAF50; color: white; position: fixed; bottom: 0; width: 100%; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to A. S. M Boy's Hostel</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="menu.html">Food Menu</a>
+        <a href="schedule.html">Daily Schedule</a>
+        <a href="admissions.html">Admissions</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <section style="padding: 20px;">
+        <h2>Our Vision</h2>
+        <p>To provide students with nutritious food, quality education, discipline, and social values.</p>
+        <p><strong>Note:</strong> Admissions are limited to only 10 members, so book early!</p>
+    </section>
+    <footer>
+        <p>Contact: 9100439030 | UPI: gsrujankumar252@ybl</p>
+    </footer>
+</body>
+</html>
